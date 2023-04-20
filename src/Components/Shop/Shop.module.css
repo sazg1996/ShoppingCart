@@ -1,0 +1,12 @@
+.cart{
+    display: flex;
+   /* justify-content: space-between;*/
+    
+}
+.box {
+    flex: 1;
+   
+  }
+
+
+  

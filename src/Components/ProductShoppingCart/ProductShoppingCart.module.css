@@ -1,0 +1,14 @@
+.prodCartContainer input[type="number"] {
+    width: 120px;
+    padding: 8px;
+    border-radius: 4px;
+  
+  }
+  .prodCartContainer{
+    display: flex;
+  }
+  .prodCartInformation
+  {
+    display: grid;
+    align-content: center;
+  }
